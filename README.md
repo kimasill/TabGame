@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/80378085/151294432-6997974f-88e1-422c-8fa4-bebd76cd0df9.png)
+![image](https://user-images.githubusercontent.com/80378085/151296503-a83cc7af-bc60-4f98-834c-aa88bc0a4f98.png)
 
 ## TabGame
 
@@ -27,15 +27,14 @@
 
 **TabTitans**
 
-![image](https://user-images.githubusercontent.com/80378085/151295283-090c4f91-d3b8-4ee2-a9fc-7c0984d5000a.png)
-
+![image](https://user-images.githubusercontent.com/80378085/151296553-32800707-3330-4fb7-837a-6a192a863673.png)
 
 보스몬스터는 1(Normal), 2(Hard), 3(Fever) 페이즈에 걸쳐 강해집니다.
 
 ## 1. 그래픽 요소
 
 - 이펙트, 모션
-![image](https://user-images.githubusercontent.com/80378085/151295561-c6848709-f0c3-4d6f-b25d-fdef6f0a9bf3.png)
+![image](https://user-images.githubusercontent.com/80378085/151296596-d20bd77c-f675-48f2-a0b3-3ec50b7104e0.png)
 (적에게 독 뿌리기 스킬을 썼다)
 
 사용자의 모든 스킬에 스프라이트 이미지로 이펙트를 가지도록 했습니다.
@@ -58,7 +57,7 @@
 ## 2.시스템 요소
 
 - 시스템 개발
-![image](https://user-images.githubusercontent.com/80378085/151295968-7821325d-fd07-4782-b7e3-01b85b7c1758.png)
+![image](https://user-images.githubusercontent.com/80378085/151296629-01452142-9dfc-48aa-9157-1b8fff1977a3.png)
 
 (3페이즈의 보스)
 게임의 구성요소는
@@ -85,6 +84,7 @@
 ## 3. 데모(Demo)
 
 플레이 영상은 [여기](https://drive.google.com/file/d/1iXivMU_KkL2F1CMC8WdcKL-8aTTxWE_q/view?usp=sharing) 에서 확인가능합니다.
+❗️저의 이상한 목소리가 설명을 하니 주의해주세요❗️
 
 **Thank You!**
 
