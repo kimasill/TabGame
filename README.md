@@ -26,15 +26,15 @@
 그중 ‘탭 타이탄’ 이라는 게임과 유사도가 높고, 참조를 많이 했습니다.
 
 **TabTitans**
-
-![image](https://user-images.githubusercontent.com/80378085/151296553-32800707-3330-4fb7-837a-6a192a863673.png)
+<p aligin = "center"><img width="50%" src="https://user-images.githubusercontent.com/80378085/151296553-32800707-3330-4fb7-837a-6a192a863673.png"/></p>
 
 보스몬스터는 1(Normal), 2(Hard), 3(Fever) 페이즈에 걸쳐 강해집니다.
 
 ## 1. 그래픽 요소
 
 - 이펙트, 모션
-![image](https://user-images.githubusercontent.com/80378085/151296596-d20bd77c-f675-48f2-a0b3-3ec50b7104e0.png)
+
+<p aligin = "center"><img width="60%" src="https://user-images.githubusercontent.com/80378085/151296596-d20bd77c-f675-48f2-a0b3-3ec50b7104e0.png"/></p>
 (적에게 독 뿌리기 스킬을 썼다)
 
 사용자의 모든 스킬에 스프라이트 이미지로 이펙트를 가지도록 했습니다.
@@ -57,8 +57,7 @@
 ## 2.시스템 요소
 
 - 시스템 개발
-![image](https://user-images.githubusercontent.com/80378085/151296629-01452142-9dfc-48aa-9157-1b8fff1977a3.png)
-
+<p aligin = "center"><img width="60%" src="https://user-images.githubusercontent.com/80378085/151296629-01452142-9dfc-48aa-9157-1b8fff1977a3.png"/></p>
 (3페이즈의 보스)
 게임의 구성요소는
 크게 적, 플레이어로 구성되게 하였습니다.
