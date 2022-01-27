@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/80378085/151296503-a83cc7af-bc60-4f98-834c-aa88bc0a4f98.png)
+<p aligin = "center"><img width="50%" src="https://user-images.githubusercontent.com/80378085/151296816-c6fc3d14-a567-4056-83eb-b9b39c9ddec6.png"/></p>
 
 ## TabGame
 
