@@ -26,7 +26,7 @@
 그중 ‘탭 타이탄’ 이라는 게임과 유사도가 높고, 참조를 많이 했습니다.
 
 **TabTitans**
-<p aligin = "center"><img width="50%" src="https://user-images.githubusercontent.com/80378085/151296553-32800707-3330-4fb7-837a-6a192a863673.png"/></p>
+<p aligin = "center"><img width="35%" src="https://user-images.githubusercontent.com/80378085/151296553-32800707-3330-4fb7-837a-6a192a863673.png"/></p>
 
 보스몬스터는 1(Normal), 2(Hard), 3(Fever) 페이즈에 걸쳐 강해집니다.
 
