@@ -87,7 +87,6 @@
 ## 3. 데모(Demo)
 
 플레이 영상은 [여기](https://drive.google.com/file/d/1iXivMU_KkL2F1CMC8WdcKL-8aTTxWE_q/view?usp=sharing) 에서 확인가능합니다.
-❗️저의 이상한 목소리가 설명을 하니 주의해주세요❗️
 
 **Thank You!**
 
